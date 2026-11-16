@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import "./App.css";
 
-const API = "https://online-survey-application-fras.onrender.com";
+const API = "https://online-survey-application-udje.onrender.com";
 
 function App() {
   const [feedback, setFeedback] = useState({
